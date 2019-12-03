@@ -1,5 +1,5 @@
 ## Release 3 ( December 3, 2019 )
-Tag: [v1.0.0-prerelease.2](https://github.com/mindreeper2420/cookbook/releases/tag/v1.0.0-prerelease.3)
+Tag: [v1.0.0-prerelease.3](https://github.com/mindreeper2420/cookbook/releases/tag/v1.0.0-prerelease.3)
 
 - Create CHANGELOG.md
 
